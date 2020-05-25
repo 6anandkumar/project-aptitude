@@ -3,7 +3,7 @@ body{
     /* font: 10px Verdana, Arial, sans-serif; */
 }
 .container {
-    margin: 0 auto;
+    margin: 0;
     max-width: 1280px !important;
     width: 79% !important;
 }
